@@ -370,7 +370,7 @@ Self-contained exercises. Each starts from an empty scratch directory, so nothin
 12. **Force a conflict and resolve it.** Follow [§6](#6-merge-conflicts) to create a conflict, resolve it by hand, then do it again using `--ours` / `--theirs`.
 13. **Recover with reflog.** `git reset --hard HEAD~2`, then use `git reflog` to find the lost commit and `git reset --hard HEAD@{1}` to restore it.
 
-Every lab has a scripted counterpart under [`examples/`](./examples) — read the script, predict the output, then run it.
+Every lab has a scripted counterpart under [`examples/`](./git-study/examples) — read the script, predict the output, then run it.
 
 ---
 
