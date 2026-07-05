@@ -391,4 +391,4 @@ See [`docs/`](./docs) for room to expand any of these into deeper standalone not
 
 ## License
 
-MIT — see [LICENSE](./LICENSE). Edit the `<Your Name>` placeholder before publishing.
+MIT — see [LICENSE](./LICENSE).
