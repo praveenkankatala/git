@@ -1,6 +1,6 @@
 # Git — A Production-Oriented Study Repository
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/praveenkankatala/git/blob/main/LICENSE)
 [![Git](https://img.shields.io/badge/tool-git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 
 A structured, hands-on reference for learning **Git** the way you'd actually use it on a DevOps/platform team — from the mental model (flow + architecture) through the day-to-day commands, the ones people confuse, branching strategy, and the thing that trips everyone up: **merge conflicts**.
@@ -391,4 +391,4 @@ See [`docs/`](./docs) for room to expand any of these into deeper standalone not
 
 ## License
 
-MIT — see [LICENSE](./LICENSE).
+MIT — see [LICENSE](https://github.com/praveenkankatala/git/blob/main/LICENSE).
